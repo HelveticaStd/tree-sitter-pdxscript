@@ -1,0 +1,4 @@
+(pair
+  key: (unquoted_string) @field (#eq? @field "trigger")
+  value: (object) @commutative
+)
